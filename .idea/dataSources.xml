@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="sandbox-pay-retail" group="ay1" uuid="440ba720-16e8-4f22-bd93-165112838117">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-pay-retail-my.ay1.krane.9rum.cc:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sandbox-kakaomoney-main" group="ay1" uuid="373baf2c-98ed-4949-bb4c-14187801442f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-kakaomoney-main-my.ay1.krane.9rum.cc:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sandbox-kakaomoney-archive" group="ay1" uuid="e1e4d433-b80e-442c-97cf-95fa76902bc5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-kakaomoney-archive-my.ay1.krane.9rum.cc:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sandbox-banking-gwarchive" group="ay1" uuid="532aee81-92b4-4761-b2ef-f162c8e89605">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-banking-gwarchive-my.ay1.krane.9rum.cc:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sandbox-banking-gateway" group="ay1" uuid="efc961d1-0b06-4cf4-ade5-90236a69d0af">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-banking-gateway-my.ay1.krane.9rum.cc:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sandbox-kakaomoney-settlement" group="ay1" uuid="af72d54d-baa6-466c-b0ed-4ed51d3896ce">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-kakaomoney-settlement-my.ay1.krane.9rum.cc	:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="djb-shard0" uuid="05438345-ef7b-4a9c-8060-e64fe74069e2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-kakaomoney-shard0-my.ay1.krane.9rum.cc:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="djb-shard1" uuid="321a19c1-5306-4135-8c41-82b62d19e829">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-kakaomoney-shard1-my.ay1.krane.9rum.cc:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="djb-shard2" uuid="ea9bd95b-67b8-47a5-be67-c8d24af2c751">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sandbox-kakaomoney-shard2-my.ay1.krane.9rum.cc:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
